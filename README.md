@@ -8,7 +8,7 @@
 | Thijs Cadier [@thijsc](https://twitter.com/thijsc)           | 👉 [How music works, using Ruby](talks/0102_how_music_works.md) |
 | Mel Kaulfuss [@MelissaKaulfuss](https://twitter.com/MelissaKaulfuss) | 👉 [Applying SRE Principles to CI/CD](talks/0103_applying_sre_principles.md) |
 | Jemma Issroff [@jemmaissroff](https://twitter.com/jemmaissroff) | 👉 [Implementing Object Shapes in CRuby](talks/0104_implementing_object_shapes.md) |
-| Wiktoria Dalach [@wdalach](https://twitter.com/wdalach)      | Security Doesn’t Have To Be a Nightmare                      |
+| Wiktoria Dalach [@wdalach](https://twitter.com/wdalach)      | 👉 [Security Doesn’t Have To Be a Nightmare](talsk/0105_security.md) |
 | Maple Ong [@OngMaple](https://twitter.com/OngMaple)          | Looking Into Peephole Optimizations                          |
 
 ## Day 2
