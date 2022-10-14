@@ -18,6 +18,6 @@
 | Adarsh Pandit [@adarshp](https://twitter.com/adarshp)        | 👉 [The Technical and Organizational Infrastructure of the Ruby Community](talks/0201_ruby_community_infrastruture.md) |
 | Vesa Vänskä [@vesan](https://twitter.com/vesan)              | 👉 [From massive pull requests to trunk-based development with Ruby](talks/0202_from_prs_to_trunks.md) |
 | Renato "Lond" Cerqueira [@renatolond](https://twitter.com/renatolond)<br />Mohnish G Jadwani [@mohnishgj](https://twitter.com/mohnishgj)<br />Hans-Jörg Schnedlitz [@hschnedlitz](https://twitter.com/hschnedlitz)<br />Hana Harencarova [@hanaharencar](https://twitter.com/hanaharencar) | 👉 [Lightning talks](talks/0203_lightning_talks.md)           |
-| Yarden Laifenfeld                                            | Ruby & JVM: A (JRuby) Love Story                             |
+| Yarden Laifenfeld [@yardenlaif](https://twitter.com/yardenlaif) | 👉 [Ruby & JVM: A (JRuby) Love Story](talks/0204_ruby_and_jvm.md) |
 | Andy Croll [@andycroll](https://twitter.com/andycroll)       | Closing keynote                                              |
 
