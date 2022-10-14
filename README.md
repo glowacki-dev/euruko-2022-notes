@@ -16,7 +16,7 @@
 | Speaker                                                | Title                                                        |
 | :----------------------------------------------------- | :----------------------------------------------------------- |
 | Adarsh Pandit [@adarshp](https://twitter.com/adarshp)  | 👉 [The Technical and Organizational Infrastructure of the Ruby Community](talks/0201_ruby_community_infrastruture.md) |
-| Vesa Vänskä [@vesan](https://twitter.com/vesan)        | From massive pull requests to trunk-based development with Ruby |
+| Vesa Vänskä [@vesan](https://twitter.com/vesan)        | 👉 [From massive pull requests to trunk-based development with Ruby](talks/0202_from_prs_to_trunks.md) |
 | TBA                                                    | Lightning talks                                              |
 | Yarden Laifenfeld                                      | Ruby & JVM: A (JRuby) Love Story                             |
 | Andy Croll [@andycroll](https://twitter.com/andycroll) | Closing keynote                                              |
